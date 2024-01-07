@@ -15,9 +15,9 @@ Minhas habilidades que estou aprendendo:
 • JAVASCRIPT
 
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=alefadonais5&theme=dark&show_icons=true=transparent">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alefadonais5&theme=dark&show_icons=true=transparent">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefadonais5&size_weight=0.5&count_weight=0.5">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefadonais5&size_weight=0.5&count_weight=0.5">
 </div>
 
 ## Contato
